@@ -6,6 +6,7 @@
 
 `:training_session:` 
 >[1] made in 4 hours according to challenge time 
+<br/>
 >[2] made after, in order to improve the score and better visualize the challenge
 
 ## *Problem statement*
@@ -52,10 +53,13 @@ Scores:
 Since the first approach was pretty naive, we decided to switch to an informed search strategy like [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) with [Manhattan distance](https://en.wikipedia.org/wiki/Taxicab_geometry) as heuristics(multiplied by 50, the minimum cell cost).
 
 Scores:
- - 1: 
- - 2: 963.859.312
- - 3: 1111
- - 4: 111111
- - 5: 
+-1: 4.702 points 2_himalayas: 3.651.108 points 3_budapest: 3.325.504 points 4_manhattan: 770.110 points 5_oceania: 2.945.099 points
 
-**Total score:** 1.210.791.976
+Total score: 10.696.523 points
+ - 1: 4.702
+ - 2: 3.651.108
+ - 3: 3.325.504 
+ - 4: 770.110
+ - 5: 2.945.099
+
+**Total score:** 10.696.523
