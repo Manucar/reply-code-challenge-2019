@@ -5,8 +5,7 @@
 </p>
 
 `:training_session:` 
->[1] made in 4 hours according to challenge time 
-<br/>
+>[1] made in 4 hours according to challenge time <br>
 >[2] made after, in order to improve the score and better visualize the challenge
 
 ## *Problem statement*
